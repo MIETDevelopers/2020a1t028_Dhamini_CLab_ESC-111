@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h>dhamini
 int main(){
   
    int disp[2][3];
